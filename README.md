@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **3D Web Design and Development**
 
-- 👨‍💻 All of my projects are available at [https://awira.netlify.app](https://awira.netlify.app)
+- 👨‍💻 All of my projects are available at [https://mawira.netlify.app](https://mawira.netlify.app)
 
 - 💬 Ask me about **Vue, Node and Web development**
 
